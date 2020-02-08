@@ -12,7 +12,7 @@
 
 ###  A Massive Exploiting Tool
 
-![Banner](cd//icons/65820028-6ae17e00-e24e-11e9-894f-35836481cc2c.png)
+![Banner](https://github.com/alimsunijambo/Jambo/tree/master/Jambo/icons/65820028-6ae17e00-e24e-11e9-894f-35836481cc2c.png)
 
 **Jambo** is an exploiting tool which compiles a malware with famous payload, and then the compiled maware can be executed on Linux , Windows , Mac and Android. **Jambo** Provides An Easy way to create Backdoors and Payload which can bypass most anti-virus. Jambo is designed to be used by cyber security expert to learn and understand how to mitigate system attacks 
         
