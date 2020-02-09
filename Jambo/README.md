@@ -72,7 +72,7 @@ All notable changes to this project will be documented in this [file](https://gi
 
 ## Social media link
 You can find more about jambo on the link bellow.
-[facebook](http//:facebook.com/alimsuni)
+[facebook](http//:facebook.com/alimsuni),
 [youtube](http//:youtube.com?alimsuni)
 
 ## License
