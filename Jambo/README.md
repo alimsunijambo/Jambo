@@ -72,10 +72,10 @@ All notable changes to this project will be documented in this [file](https://gi
 
 ## Social media link
 You can find more about jambo on the link bellow.
-[facebook](http//:facebook.com/alimsuni),
+[facebook](https://www.facebook.com/alimsunicomputersolutions/),
 [youtube](http//:youtube.com?alimsuni)
 
 ## License
-Jambo is made with 🖤 by Alimsuni The Kenyan Tech Master & All [Contributors](https://github.com/Screetsec/Jambo/graphs/contributors). See the **License** file for more details.
+Jambo is made with 🖤 by Alimsuni The Kenyan Tech Master & All [Contributors](https://www.facebook.com/alimsunicomputersolutions/). See the **License** file for more details.
 
 
