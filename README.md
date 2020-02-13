@@ -9,7 +9,7 @@
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-blue.svg?style=flat)]()
 
 
-###  A Massive Exploiting Tool
+###  A Massive Exploiting Toolkit Framework
 
 ![Banner](https://github.com/alimsunijambo/Jambo/blob/master/Jambo/icons/65820028-6ae17e00-e24e-11e9-894f-35836481cc2c.png)
 
